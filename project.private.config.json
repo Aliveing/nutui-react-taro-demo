@@ -1,0 +1,6 @@
+{
+    "projectname": "nutui-react-taro-demo",
+    "setting": {
+        "compileHotReLoad": true
+    }
+}
